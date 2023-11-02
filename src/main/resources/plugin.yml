@@ -1,0 +1,6 @@
+name: JobsPlugin
+version: 1.0
+main: fr.roi.jobs.Main
+commands:
+  jobs:
+    description: Jobs command
